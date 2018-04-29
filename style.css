@@ -7,9 +7,9 @@ img{width:100%;
 }
 .april-28th-2018{border:2px solid #68be8d}
 .container{align-items: center}
-.sidebar{float: left;width:25%;height:100%;min-width: 300px}
+.sidebar{min-width: 300px;float: left;width:25%;height:100%;}
 a.brand{font-size: 40px}
-.main{float: right;width:75%;display: inline-block;}
+.main{min-width: 300px;float: right;width:75%;display: inline-block;}
 div.item{padding:20px 10px;border: 1px solid black; }
 
 .header{padding:5px;
