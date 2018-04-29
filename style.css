@@ -1,16 +1,16 @@
 /**{background: rgba(0,0,0,.1)}*/
-body,a{color:#000}
+body,a{color:#000;background:#F2F2F2}
 h1{text-align: center;}
-a{font-size: 25px;text-decoration:none;}
+a{font-size: 35px;text-decoration:none;}
 p{font-size: 30px}
 img{width:100%;
 }
 .april-28th-2018{border:2px solid #68be8d}
 .container{align-items: center}
-.sidebar{background:#F2F2F2;float: left;width:25%;height:100%}
+.sidebar{float: left;width:25%;height:100%}
 a.brand{font-size: 40px}
-.main{float: right;width:75%;display: inline-block}
-div.item{padding:20px 10px;background: #999;border: 1px solid black; }
+.main{float: right;width:75%;display: inline-block;}
+div.item{padding:20px 10px;border: 1px solid black; }
 
 .header{padding:5px;
 display: inline-block;font-size: 20px}
