@@ -21,3 +21,9 @@ display: inline-block;font-size: 20px}
 a.item{padding:2%;display:block;}
 .list-group{width:100%}
 .list-group-item{color:blue}
+#toggle{display: none;}
+.nav{display: none}
+.list-group{}
+.sidebar{display: none}
+#toggle:checked ~ .nav,#toggle:checked ~ .sidebar,#toggle:checked ~.list-group{display: block}
+#togglelabel{font-size: 30px}
