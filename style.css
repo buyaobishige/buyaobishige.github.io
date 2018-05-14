@@ -27,3 +27,5 @@ a.item{padding:2%;display:block;}
 .sidebar{display: none}
 #toggle:checked ~ .nav,#toggle:checked ~ .sidebar,#toggle:checked ~.list-group{display: block}
 #togglelabel{font-size: 30px}
+#logo{display: block}
+#logomobile{display:none}
