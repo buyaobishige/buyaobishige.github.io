@@ -26,6 +26,6 @@ a.item{padding:2%;display:block;}
 .list-group{}
 .sidebar{display: none}
 #toggle:checked ~ .nav,#toggle:checked ~ .sidebar,#toggle:checked ~.list-group{display: block}
-#togglelabel{font-size: 30px}
+#togglelabel{font-size: 50px;color:blue}
 #logo{display: block}
 #logomobile{display:none}
