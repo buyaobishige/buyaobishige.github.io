@@ -16,3 +16,4 @@ a{font-size: 65px}
     40%,70% {       margin-left: -1200px;    }
    70%,100% {       margin-left: -1800px;    }    }
 .mobile{display: block}
+.pc{display: none}

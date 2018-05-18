@@ -9,9 +9,9 @@ pre{font-size: 28px;overflow: auto;}
 #item{display: inline-block;background: white}
 .april-28th-2018{}
 .container{align-items: center}
-.sidebar{min-width: 100px;float: left;width:25%;height:100%;}
+.sidebar{min-width: 100px;float: left;width:600px;height:100%;}
 a.brand{font-size: 40px}
-.main{min-width: 100px;float: right;width:75%;display: inline-block;}
+.main{min-width: 100px;float: right;width:-webkit-calc(100% - 625px); ;display: inline-block;}
 div.item{padding:20px 10px;border: 1px solid black; }
 
 .header{padding:5px;
@@ -30,3 +30,14 @@ a.item{padding:2%;display:block;}
 #logo{display: block}
 #logomobile{display:none}
 .mobile{display: none}
+#frame{position:relative;width:600px;height:500px;overflow:hidden;border-radius:5px}
+ #photos img{float:left;width:600px;height:500px}
+#photos {  position: absolute;z-index:9;  width: calc(600px * 4);/*---修改图片数量的话需要修改下面的动画参数*/  }
+ .play{ animation: ma 16s ease-out infinite alternate;}
+ @keyframes ma {
+    0%,15% {        margin-left: 0px;       }
+    15%,40% {       margin-left: -600px;    }
+    40%,70% {       margin-left: -1200px;    }
+   70%,100% {       margin-left: -1800px;    }    }
+.mobile{display:none}
+.pc{display: block}
