@@ -10,10 +10,5 @@ a{font-size: 65px}
  #photos img{float:left;width:600px;height:500px}
 #photos {  position: absolute;z-index:9;  width: calc(600px * 4);/*---修改图片数量的话需要修改下面的动画参数*/  }
  .play{ animation: ma 16s ease-out infinite alternate;}
- @keyframes ma {
-    0%,15% {        margin-left: 0px;       }
-    15%,40% {       margin-left: -600px;    }
-    40%,70% {       margin-left: -1200px;    }
-   70%,100% {       margin-left: -1800px;    }    }
 .mobile{display: block}
 .pc{display: none}
