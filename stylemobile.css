@@ -3,7 +3,7 @@
 *{font-size: 60px}
 #logo{display: none}
 #logomobile{display: block;}
-pre{font-size: 70px;width:1000px;display:inline}
+pre{font-size: 70px;width:1000px;display:inline-block}
 a{font-size: 65px}
 .logo{border: 0;}
 
