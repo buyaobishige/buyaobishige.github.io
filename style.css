@@ -1,7 +1,7 @@
 /**{background: rgba(0,0,0,.1)}*/
 body,a{color:#000;background:#F2F2F2}
 h1{text-align: center;}
-a{font-size: 35px;text-decoration:none;text-align: center}z
+a{font-size: 35px;text-decoration:none;text-align: center}
 img{width:100%;display: block;max-width: 100%;border-radius: 3px;border:1.5px solid black}
 pre{min-width:1000px;white-space: pre-wrap;
 whitewhite-space: pre-wrap;
@@ -10,7 +10,7 @@ white-space: -pre-wrap;
 white-space: -o-pre-wrap;
 *word-wrap: break-word;
 *white-space : normal ;  
-font-size: 38px;}
+font-size: 38px}
 #item{display: inline-block;background: white}
 .april-28th-2018{}
 .container{align-items: center}
@@ -18,7 +18,6 @@ font-size: 38px;}
 a.brand{font-size: 40px}
 .main{min-width: 100px;float: right;width:-webkit-calc(100% - 650px) ;display: inline-block;}
 div.item{padding:20px 10px;border: 1px solid black; }
-
 .header{padding:5px;
 display: inline-block;font-size: 20px}
 .logo{border: 2px solid #000;}
