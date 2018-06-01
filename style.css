@@ -16,7 +16,7 @@ font-size: 38px;}
 .container{align-items: center}
 .sidebar{min-width: 100px;float: left;width:600px;height:100%;}
 a.brand{font-size: 40px}
-.main{min-width: 100px;float: right;width:-webkit-calc(100% - 600px) ;display: inline-block;}
+.main{min-width: 100px;float: right;width:-webkit-calc(100% - 625px) ;display: inline-block;}
 div.item{padding:20px 10px;border: 1px solid black; }
 
 .header{padding:5px;
