@@ -14,9 +14,9 @@ font-size: 38px;}
 #item{display: inline-block;background: white}
 .april-28th-2018{}
 .container{align-items: center}
-.sidebar{min-width: 100px;float: left;width:700px;height:100%;}
+.sidebar{min-width: 100px;float: left;width:645px;height:100%;}
 a.brand{font-size: 40px}
-.main{min-width: 100px;float: right;width:-webkit-calc(100% - 725px) ;display: inline-block;}
+.main{min-width: 100px;float: right;width:-webkit-calc(100% - 650px) ;display: inline-block;}
 div.item{padding:20px 10px;border: 1px solid black; }
 
 .header{padding:5px;
