@@ -11,14 +11,13 @@ white-space: -o-pre-wrap;
 *word-wrap: break-word;
  *white-space : normal ;font-size:45px}
 #item{display: inline-block;background: white}
-.april-28th-2018{}
 .container{align-items: center}
-.sidebar{min-width: 100px;float: left;width:645px;height:100%;}
-a.brand{font-size: 40px}
-.main{min-width: 100px;float: right;width:-webkit-calc(100% - 650px) ;display: inline-block;}
+.sidebar{min-width: 100px;float: left;width:625px;height:100%;}
+a.brand{-size: 40px}
+.main{min-width: 100px;float: right;width:-webkit-calc(100% - 625px) ;display: inline-block;}
 div.item{padding:20px 10px;border: 1px solid black; }
 .header{padding:5px;
-display: inline-block;font-size: 20px}
+display: inline-block;font-size: 35pxpx}
 .logo{border: 2px solid #000;}
 .intro{padding:15px}
 a.item{padding:2%;display:block;}
