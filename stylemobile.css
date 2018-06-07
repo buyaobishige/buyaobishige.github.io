@@ -1,5 +1,5 @@
 .sidebar{width:100%;float:none;position:relative;}
-.main{width:100%;position：relative;margin-top:8.2cm}
+.main{width:100%;position：relative;margin-top:7.5cm}
 *{font-size: 60px}
 #logo{display: none}
 #logomobile{display: block;}
@@ -9,4 +9,4 @@ a{font-size: 65px}
 
 .mobile{display: block}
 .pc{display: none}
- iframe{height:500px;position:relative;display:block}
+ iframe{height:600px;position:relative;display:block}
