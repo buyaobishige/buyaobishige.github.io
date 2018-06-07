@@ -1,5 +1,5 @@
-.sidebar{width:100%;float:none;position:relative;display:block}
-.main{width:100%;dispaly:block}
+.sidebar{width:100%;float:none;position:relative;}
+.main{width:100%;position：relative}
 *{font-size: 60px}
 #logo{display: none}
 #logomobile{display: block;}
