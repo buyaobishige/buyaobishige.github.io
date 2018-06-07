@@ -19,7 +19,7 @@ div.item{padding:20px 10px;border: 1px solid black; }
 .header{padding:5px;
 display: inline-block;font-size: 35pxpx}
 .logo{border: 2px solid #000;}
-.intro{padding:15px}
+.intro{padding:15px;font-size：30px}
 a.item{padding:2%;display:block;}
 .list-group{width:100%}
 .list-group-item{color:blue}
