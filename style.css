@@ -46,5 +46,5 @@ a.item{padding:2%;display:block;}
 .mobile{display:none}
 .pc{display: block}
  h3{text-align:center}
- *{font-size:38px}
+ *{font-size:38px;font-family:"微软雅黑体",Microsoft YaHei}
  iframe{width:100%}
