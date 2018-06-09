@@ -48,4 +48,4 @@ a.item{padding:2%;display:block;}
  h3{text-align:center}
  *{font-size:38px;font-family: "楷体","楷体_GB2312";}
  iframe{width:100%;height:1050px}
- .bg1{background-image:url(src/bg1.jpg) no-repeat center}
+ .bg1{background-image:url('src/bg1.jpg') no-repeat center}
