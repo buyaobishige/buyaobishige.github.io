@@ -1,6 +1,6 @@
 .sidebar{width:100%;float:none;position:relative;}
 .main{width:100%;position：relative;margin-top:7.5cm}
-*{font-size: 60px}
+*{font-size: 50px}
 #logo{display: none}
 #logomobile{display: block;}
 pre{font-size: 70px;max-width:800px;}
@@ -10,3 +10,5 @@ a{font-size: 65px}
 .mobile{display: block}
 .pc{display: none}
  iframe{height:900px;position:relative;display:block}
+#scorll{overflow:aoto;width:650px}
+td{min-width: 300px}
