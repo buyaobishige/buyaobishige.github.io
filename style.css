@@ -1,7 +1,7 @@
 /**{background: rgba(0,0,0,.1)}*/
 body,a{color:#000;background:#F2F2F2}
 h1{text-align: center;}
-a{font-size: 20.5px;text-decoration:none;text-align: center;height:}
+a{font-size: 20px;text-decoration:none;text-align: center;height:60px}
 img{width:100%;display: block;max-width: 100%;border-radius: 10px;border:1.5px solid black}
 pre{min-width:680px;white-space: pre-wrap;max-width:1600px;text-align: justify;
 whitewhite-space: pre-wrap;
@@ -28,7 +28,6 @@ a.item{padding:2%;display:block;}
 #toggle:checked ~ .nav,#toggle:checked ~ .sidebar,#toggle:checked ~.list-group{display: block}
 #togglelabel{float: right;font-size: 50px;color:blue;display: block;}
 #logo{display: block}
-#logomobile{display:none}
 .mobile{display: none}
 #frame{position:relative;width:350px;height:350px;overflow:hidden;}
  #photos img{float:left;width:350px;height:350px}
