@@ -13,3 +13,6 @@ a{font-size: 65px}
 #scorll{overflow:aoto;width:650px}
 td{min-width: 300px}
 .sidebar{position: relative;}
+.table{overflow:scroll;}
+h1{font-size:1rem!important}
+.float-right{font-size: 30px!important}
