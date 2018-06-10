@@ -57,3 +57,4 @@ a.item{padding:2%;display:block;}
 .float-right{font-size: 35px!important}
 h4{text-align: center}
 li{list-style: square}
+.container{max-width: 800px}

@@ -1,5 +1,5 @@
 .sidebar{width:100%;float:none;position:relative;}
-.main{width:100%;position：relative;margin-top:7.5cm}
+.main{width:100%;position：relative;margin-top: 3.5cm}
 *{font-size: 50px}
 #logo{display: none}
 #logomobile{display: block;}
@@ -16,3 +16,16 @@ td{min-width: 300px}
 .table{overflow:scroll;}
 h1{font-size:1rem!important}
 .float-right{font-size: 30px!important}
+#photos {  position: absolute;z-index:9;  width: calc(700px * 6); }
+ .play{ animation: ma 16s ease-out infinite alternate;}
+ @keyframes ma {
+    0%,5% {        margin-left: 0px;       }
+    15%,20% {       margin-left: -700px;    }
+    30%,35% {       margin-left: -1400px;    }
+   45%,50% {       margin-left: -2100px;    }
+ 60%,70% {       margin-left: -2800px;    }
+ 80%,100% {       margin-left: -3500px;    }    }
+ .sidebar{min-width: 100px;float: left;width:726px;height:100%;position: fixed;}
+ .main{min-width: 100px;float: right;width:-webkit-calc(100% - 725px) ;display: inline-block;}
+ #frame{position:relative;width:700px;height:700px;overflow:hidden;}
+  #photos img{float:left;width:700px;height:700px}
