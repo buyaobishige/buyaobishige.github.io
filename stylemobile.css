@@ -12,7 +12,7 @@ a{font-size: 65px}
  iframe{height:900px;position:relative;display:block}
 #scorll{overflow:aoto;width:650px}
 td{min-width: 300px}
-.sidebar{position: relative;}
+.sidebar{position: relative;background-color: inherit;}
 .table{overflow:scroll;}
 h1{font-size:1rem!important}
 .float-right{font-size: 30px!important}
