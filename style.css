@@ -16,7 +16,7 @@ white-space: -o-pre-wrap;
 .main{min-width: 100px;float: right;width:-webkit-calc(100% - 375px) ;display: inline-block;}
 div.item{padding:20px 10px;border: 1px solid black; }
 .header{padding:5px;
-display: inline-block;font-size: 35pxpx}
+display: inline-block;font-size: 35px}
 .intro{padding:15px;font-size：30px}
 a.item{padding:2%;display:block;}
 .list-group{width:100%}
