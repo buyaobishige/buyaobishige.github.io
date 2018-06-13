@@ -2,7 +2,7 @@
 .main{width:100%;position:relative;}
 #logo{display: none}
 #logomobile{display: block;}
-pre{font-size:70px!important;}
+pre{font-size:70px!important;width:680px;max-width: 500px}
 a{font-size: 65px}
 .logo{border: 0;}
 .mobile{display: block}
