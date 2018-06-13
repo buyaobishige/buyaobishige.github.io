@@ -28,7 +28,6 @@ a.item{padding:2%;display:block;}
 #toggle:checked ~ .nav,#toggle:checked ~ .sidebar,#toggle:checked ~.list-group{display: block}
 #togglelabel{float: right;font-size: 50px;color:blue;display: block;}
 #logo{display: block}
-.mobile{display: none}
 #frame{position:relative;;width:350px;height:350px;overflow:hidden;}
  #photos img{float:left;width:350px;height:350px}
 #photos {  position: absolute;z-index:9;  width: calc(350px * 6); }
