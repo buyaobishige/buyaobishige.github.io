@@ -1,20 +1,19 @@
-.sidebar{width:100%;float:none;position:relative;}
+/* .sidebar{width:100%;float:none;position:relative;}
 .main{width:100%;position:relative;}
 #logo{display: none}
-#logomobile{display: block;}
+#logomobile{display: block;} */
 pre{font-size:70px!important;width:680px;max-width: 500px}
-a{font-size: 65px}
-.logo{border: 0;}
-.mobile{display: block}
-.pc{display: none}
- iframe{height:900px;position:relative;display:block}
-#scorll{overflow:aoto;width:650px}
+/* a{font-size: 65px}
+.logo{border: 0;} */
+
+ /* iframe{height:900px;position:relative;display:block}
+
 
 .sidebar{position: relative;background-color: inherit;}
 
 h1{font-size:1rem!important}
 .float-right{font-size: 30px!important}
-#photos {  position: absolute;z-index:9;  width: calc(690px * 6); }
+#photos {position: absolute;z-index:9;  width: calc(690px * 6); }
  .play{ animation: ma 16s ease-out infinite alternate;}
  @keyframes ma {
     0%,5% {        margin-left: 0px;       }
@@ -24,20 +23,21 @@ h1{font-size:1rem!important}
  60%,70% {       margin-left: -2760px;    }
  80%,100% {       margin-left: -3450px;    }    }
  .sidebar{width:100%;float:none;background: #F2F2F2}
- .main{width: 100%;float:none;}
- #frame{position:absolute;width:690px;height:690px;overflow:hidden;}
+ .main{width: 100%;float:none;} */
+ /* #frame{position:absolute;width:690px;height:690px;overflow:hidden;}
   #photos img{float:left;width:690px;height:690px}
 a{text-align:auto;height:auto;}
-.index{margin-top:300px}
+.index{margin-top:300px} */
 .navimg{width:70px;display: inline;padding-bottom: 10px}
 
 .pc{display: none}
 .mobile{display: block}
 *{font-size: 60px}
 .thememusic,.nav{width:100%;}
-.nav{height:auto;}
-img.themeimg{width:100%;padding: 0;float:right;}
+.nav{height:auto;width:100%;position: relative;margin:0}
+img.themeimg{width:100%;padding: 0;float:right;margin: 0}
 .x{padding-top: 115px}
 .menu{float: left;padding: 0;width:100%}
 td{width: 33%}
-a.navbar-nav{font-size: 55px}
+a.navbar-nav{font-size: 55px;border: 0.3px solid black}
+.hundred{width:100%}
