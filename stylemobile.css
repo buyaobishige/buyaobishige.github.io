@@ -36,8 +36,8 @@ a{text-align:auto;height:auto;}
 .thememusic,.nav{width:100%;}
 .nav{height:auto;width:100%;position: relative;margin:0}
 img.themeimg{width:100%;padding: 0;float:right;margin: 0}
-.x{padding-top: 115px}
+.x{padding-top: 75px}
 .menu{float: left;padding: 0;width:100%}
 td{width: 33%}
-a.navbar-nav{font-size: 55px;border: 0.3px solid black}
+a.navbar-nav{font-size: 55px;border: 0.3px solid black;height:auto}
 .hundred{width:100%}

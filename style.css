@@ -24,7 +24,7 @@ a.item{padding:2%;display:block;}
 #toggle{display: none;}
 .nav{display: none}
 #toggle:checked ~ .nav,#toggle:checked ~ .sidebar,#toggle:checked ~.list-group{display: block}
-#togglelabel{float: right;font-size: 50px;color:blue;display: block;}
+#togglelabel{float: left;font-size: 50px;color:blue;display: block;background-color: rgba(0,0,0,0.1);margin-left: 10%}
 #logo{display: inline-block}
 #frame{position:relative;;width:350px;height:350px;overflow:hidden;}
  #photos img{float:left;width:350px;height:350px}
@@ -54,15 +54,16 @@ a.item{padding:2%;display:block;}
 h4{text-align: center}
 li{list-style: square}
 h1{}
-.bar{text-align: center;background-color: purple;color:white;position:fixed;display: block;width:100%;height:75px;font-size:55px!important;}
-.x{padding-top: 75px}
-.navimg{width:70px;display: inline;padding-bottom: 23px}
-.thememusic{height:30px;width:calc(100%-375px);position: fixed}
-.lyric{border:1px solid silver;font-family:'方正兰亭超细黑';font-size:17px!important;text-align:center;height:102px;margin-top:5px;background:white;width:100%;margin:0;position:fixed;margin-top: 30px;}
+.bar{text-align: center;background-color: purple;color:white;position:fixed;display: block;width:100%;height:80px;font-size:55px!important;}
+.x{padding-top: 80px}
+.navimg{width:70px;height: auto;display: inline;margin-bottom: 10px}
+.thememusic{height:30px;width:calc(100%-375px);position: fixed;z-index: 9}
+.lyric{border:1px solid silver;font-family:'方正兰亭超细黑';text-align:center;height:103px;overflow: hidden;margin-top:5px;background:white;width:100%;margin:0;position:fixed;margin-top: 53px;z-index: 9}
 .themeimg{width:400px;display: inline;float:left;padding:17px}
-.f17{font-size: 17px!important;}
-.lyricx{font-family:'方正兰亭超细黑';font-size:17px!important;text-align:center;height:102px;width:100%;margin:0;position:fixed;background: transparent}
+
+/* .lyric{font-family:'方正兰亭超细黑';font-size:17px!important;text-align:center;height:102px;width:100%;margin:0;position:fixed;background: transparent} */
 .tip1{display:none;text-align: center;background: rgba(0,0,0,0,1);color:transparent;
 -webkit-text-stroke: 2px black}
 
 a.edit:hover~.tip1{display: block}
+.leftimg{height:320px}
