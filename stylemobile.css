@@ -39,6 +39,11 @@ img.themeimg{width:100%;padding: 0;float:right;margin: 0}
 .x{padding-top: 75px}
 .menu{float: left;padding: 0;width:100%}
 td{width: 33%}
+a{font-size:40px}
 a.navbar-nav{font-size: 55px;border: 0.3px solid black;height:auto}
 .hundred{width:100%}
 td{width:25%}
+td{font-size: 35px}
+.list-group-item{height:auto}
+.bar{z-index: 9}
+table{background: rgba(255,255,255,1)}

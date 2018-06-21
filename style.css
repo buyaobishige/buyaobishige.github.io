@@ -42,12 +42,14 @@ a.item{padding:2%;display:block;}
  h3{text-align:center}
  *{font-size:25px;font-family: "楷体","楷体_GB2312";}
  iframe{width:100%;height:485px;overflow: hidden;}
+  .bg1{background-image:url(src/bg1.jpg);}
  .bg2{background-image:url(src/bg2.jpg);}
+
  td{text-align: center}
- .sidebar{display: none;float: left;background:linear-gradient(rgba(0,0,255,0.2),white,pink)}
+ .sidebar{display: none;float: left;background:linear-gradient(rgba(0,0,255,0.2),white,pink);}
  .color1{color:purple;background-color: rgba(190,190,190,0.6)}
  .color2{color:	rgba(0,0,0,0.78)}
- td{font-size: 25px!important;}
+ td{font-size: 25px}
  th{text-align: center}
  .table{width:inherit;text-align: center;}
 .float-right{font-size: 35px!important}
@@ -57,8 +59,8 @@ h1{}
 .bar{text-align: center;background-color: purple;color:white;position:fixed;display: block;width:100%;height:80px;font-size:55px!important;}
 .x{padding-top: 80px}
 .navimg{width:70px;height: auto;display: inline;margin-bottom: 10px}
-.thememusic{height:30px;width:calc(100%-375px);position: fixed;z-index: 9}
-.lyric{border:1px solid silver;font-family:'方正兰亭超细黑';text-align:center;height:103px;overflow: hidden;margin-top:5px;background:white;width:100%;margin:0;position:fixed;margin-top: 53px;z-index: 9}
+/* .thememusic{height:30px;width:calc(100%-375px);position: fixed;z-index: 9} */
+.lyric{border:1px solid silver;font-family:'方正兰亭超细黑';text-align:center;height:103px;overflow: hidden;margin-top:5px;background:white;width:1120px;margin:0;position:fixed;margin-top: 0px;z-index: 9}
 .themeimg{width:400px;display: inline;float:left;padding:17px}
 
 /* .lyric{font-family:'方正兰亭超细黑';font-size:17px!important;text-align:center;height:102px;width:100%;margin:0;position:fixed;background: transparent} */
@@ -67,3 +69,4 @@ h1{}
 
 a.edit:hover~.tip1{display: block}
 .leftimg{height:320px}
+hr{margin:10px;background-color:lightblue}
